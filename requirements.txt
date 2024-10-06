@@ -1,0 +1,14 @@
+dspy
+telebot
+google-cloud-speech
+requests
+datetime
+ffmpeg-python
+backoff
+groq
+langchain-core
+langchain-community
+langchain-huggingface
+faiss-cpu
+sentence-transformers
+
